@@ -26,3 +26,14 @@ console.log("Hii");
 //functions----------------------------------------
 //if argument not passed = undefined
 //rest operator
+
+
+//Nullish coalescing Operator  (??)
+//for(const a of arr){}
+//map.set()   
+// for in ->returns index (used for objects)
+//foreach dosent return
+
+
+//filter
+//reduce((accumulator,currentval)=>accumulator+currentval,initialval)
